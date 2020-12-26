@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ToDoListKotakode</string>
+    <string name="addtodo">addToDo</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="save">Save</string>
+    <string name="delete">Hapus</string>
+    <string name="change">Rubah</string>
+    <string name="update">Perbarui</string>
+    <string name="add">Tambah</string>
+    <string name="cancel">Cancel</string>
+    <string name="message_cancel">Apakah kamu ingin membatalkan perubahan Todo?</string>
+    <string name="message_delete">Apakah kamu yakin ingin menghapus Todo ini?</string>
+    <string name="yes">Ya</string>
+    <string name="no">Tidak</string>
+    <string name="empty">Data Kosong!</string>
+    <string name="added">Todo berhasil ditambah</string>
+    <string name="changed">Todo berhasil diubah</string>
+    <string name="deleted">Todo berhasil dihapus</string>
+</resources>
